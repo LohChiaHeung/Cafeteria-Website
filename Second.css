@@ -1,0 +1,52 @@
+li {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:15px;
+}
+
+li a:hover {
+    background-color:rgb(55, 224, 55);
+  }
+
+.navbar{
+    background-color:skyblue;
+}
+
+.emoji {
+    font-size: 30px;
+}
+
+.class1{
+    margin-top:5%;
+    text-align:center;
+    font-family:cursive;
+    color:royalblue;
+    background-color:moccasin;
+}
+
+.wholethings{
+    background-color:moccasin;
+}
+
+.description1 {
+    font-family:cursive;
+    font-size:25px;
+    border:skyblue 3px solid;
+    padding:20px;
+    margin:40px;
+}
+
+.description2 {
+    font-family:cursive;
+    font-size:25px;
+    border:skyblue 3px solid;
+    padding:20px;
+    float:left;
+}
+
+.tobecontinued {
+    font-size:100px;
+    font-family:"Amatic SC", sans-serif;
+}
+
+
+

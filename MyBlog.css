@@ -1,0 +1,61 @@
+li {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:15px;
+}
+
+li a:hover {
+    background-color:rgb(55, 224, 55);
+  }
+
+.navbar{
+    background-color:skyblue;
+}
+
+.emoji {
+    font-size: 30px;
+}
+
+.content {
+    position:relative;
+    margin-top:5%;
+    font-size:32px;
+    font-family:sans-serif;
+    background-color:moccasin;
+}
+
+.mypicture {
+    width:450px;
+    height:500px;
+    float:right;
+}
+
+.right {
+    float:right;
+    clear:right;
+    font-size:15px;
+    font-family:sans-serif;
+}
+
+.mypictures {
+    width:350px;
+    height:350px;
+    float:right;
+}
+
+h1 {
+    font-family:cursive;
+    color:royalblue;
+}
+
+.mypicturess {
+    width:350px;
+    height:380px;
+    float:left;
+}
+
+h2 {
+    text-align:center;
+    font-family:cursive;
+    color:violet;
+
+}

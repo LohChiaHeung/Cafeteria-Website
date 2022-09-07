@@ -1,0 +1,28 @@
+html,body,header,#intro {
+    height: 110%;
+}
+
+#intro {
+    background:url(patrick-tomasso-GXXYkSwndP4-unsplash.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.white-text {
+    font-size:25px;
+    font-family:sans-serif;
+    font-weight:20px;
+    padding:10px;
+}
+
+.my-4 {
+    font-size:40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.my-5 {
+    font-size:55px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}

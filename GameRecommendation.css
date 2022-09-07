@@ -1,0 +1,62 @@
+li {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:15px;
+}
+
+li a:hover {
+    background-color:rgb(55, 224, 55);
+  }
+
+.navbar{
+    background-color:skyblue;
+}
+
+body {
+    background-color:ivory;
+
+}
+
+.emoji {
+    font-size: 30px;
+}
+
+.titleforgame {
+    position:relative;
+    margin-top:5%;
+    font-size:45px;
+    text-align:center;
+    font-family:cursive;
+}
+
+.contents {
+    background-color:moccasin;
+}
+
+
+.row{
+    background-color:moccasin;
+    margin:0%;
+    padding:0%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.imgfd{
+    width:500px;
+    height:400px;
+}
+
+.description3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:20px;
+}
+
+.feature-title {
+    font-family:cursive;
+    font-size:32px;
+}
+
+.tobecontinued {
+    font-size:100px;
+    font-family:"Amatic SC", sans-serif;
+}
+
